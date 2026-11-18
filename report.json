@@ -1,0 +1,289 @@
+Personal Digital Identity](https://2mycv2.pages.dev/)  استبدل ربط موقع السيره الذاتيه بهذا الموقه     واريد الخلفيه الموقع تظهر من الخارج {
+  "checks": [
+    {
+      "name": "لا توجد أخطاء JavaScript",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "كل الصور تحمّل بنجاح",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "name": "عدد الصور",
+      "ok": true,
+      "detail": "8 صورة"
+    },
+    {
+      "name": "الخطوط جاهزة",
+      "ok": true,
+      "detail": "loaded"
+    },
+    {
+      "name": "لا يوجد تمرير أفقي (1440px)",
+      "ok": true,
+      "detail": "فرق=0px"
+    },
+    {
+      "name": "روابط التنقل (9)",
+      "ok": true,
+      "detail": "9"
+    },
+    {
+      "name": "أقسام الصفحة (9)",
+      "ok": true,
+      "detail": "9"
+    },
+    {
+      "name": "بطاقات المشاريع (5)",
+      "ok": true,
+      "detail": "5"
+    },
+    {
+      "name": "عناصر المهارات (17)",
+      "ok": true,
+      "detail": "17"
+    },
+    {
+      "name": "بطاقات الشخصية (4)",
+      "ok": true,
+      "detail": "4"
+    },
+    {
+      "name": "المجالات (7)",
+      "ok": true,
+      "detail": "7"
+    },
+    {
+      "name": "عنوان H1 واحد فقط",
+      "ok": true,
+      "detail": "['هديل\\n        عبدالقوي']"
+    },
+    {
+      "name": "كل الصور لها نص بديل",
+      "ok": true,
+      "detail": "0"
+    },
+    {
+      "name": "كل الأزرار لها تسمية",
+      "ok": true,
+      "detail": "0"
+    },
+    {
+      "name": "لا توجد روابط فارغة",
+      "ok": true,
+      "detail": "0"
+    },
+    {
+      "name": "عناصر قابلة للترجمة (200+)",
+      "ok": true,
+      "detail": "253 عنصر"
+    },
+    {
+      "name": "خيارا اللغة موجودان",
+      "ok": true,
+      "detail": "2"
+    },
+    {
+      "name": "نص الكتابة المتحرك يعمل",
+      "ok": true,
+      "detail": "طالبة بكالوريوس في الذكاء الاصطناعي | م"
+    },
+    {
+      "name": "السنة الحالية صحيحة",
+      "ok": true,
+      "detail": "2026"
+    },
+    {
+      "name": "رابط واتساب صحيح",
+      "ok": true,
+      "detail": "https://wa.me/966557123774"
+    },
+    {
+      "name": "رابط الاتصال صحيح",
+      "ok": true,
+      "detail": "tel:+966557123774"
+    },
+    {
+      "name": "رابط البريد صحيح",
+      "ok": true,
+      "detail": "mailto:lcf277940@gmail.com"
+    },
+    {
+      "name": "تحويل lang إلى en",
+      "ok": true,
+      "detail": "en"
+    },
+    {
+      "name": "تحويل dir إلى ltr",
+      "ok": true,
+      "detail": "ltr"
+    },
+    {
+      "name": "ترجمة شريط التنقل",
+      "ok": true,
+      "detail": "Home"
+    },
+    {
+      "name": "ترجمة اسم العنوان",
+      "ok": true,
+      "detail": "Hadeel Abdulqawi"
+    },
+    {
+      "name": "ترجمة عنوان الصفحة",
+      "ok": true,
+      "detail": "Hadeel Abdulqawi | Digital CV — HA"
+    },
+    {
+      "name": "ترجمة قسم التواصل",
+      "ok": true,
+      "detail": "I would be glad to connect and"
+    },
+    {
+      "name": "حفظ اللغة في LocalStorage",
+      "ok": true,
+      "detail": "en"
+    },
+    {
+      "name": "لا تمرير أفقي بالإنجليزية",
+      "ok": true,
+      "detail": "فرق=0px"
+    },
+    {
+      "name": "العودة إلى العربية",
+      "ok": true,
+      "detail": "ar / rtl"
+    },
+    {
+      "name": "استعادة النص العربي",
+      "ok": true,
+      "detail": "الرئيسية"
+    },
+    {
+      "name": "استعادة الاسم العربي",
+      "ok": true,
+      "detail": "هديل عبدالقوي"
+    },
+    {
+      "name": "تبديل الوضع الليلي",
+      "ok": true,
+      "detail": "dark"
+    },
+    {
+      "name": "حفظ التفضيل في LocalStorage",
+      "ok": true,
+      "detail": "dark"
+    },
+    {
+      "name": "العودة للوضع النهاري",
+      "ok": true,
+      "detail": "light"
+    },
+    {
+      "name": "فتح نافذة تفاصيل المشروع",
+      "ok": true,
+      "detail": "موقع شركة مواد البناء"
+    },
+    {
+      "name": "إغلاق النافذة",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "تحديد القسم النشط عند التمرير",
+      "ok": true,
+      "detail": "المشاريع"
+    },
+    {
+      "name": "ظهور مؤشر شريط التنقل",
+      "ok": true,
+      "detail": "85px"
+    },
+    {
+      "name": "شريط تقدم القراءة يعمل",
+      "ok": true,
+      "detail": "43.63%"
+    },
+    {
+      "name": "ظهور زر العودة للأعلى",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "name": "لقطة desktop-hero.png (1440x900)",
+      "ok": true,
+      "detail": "1193 KB"
+    },
+    {
+      "name": "لقطة laptop-1280.png (1280x800)",
+      "ok": true,
+      "detail": "992 KB"
+    },
+    {
+      "name": "لقطة tablet-820.png (820x1180)",
+      "ok": true,
+      "detail": "838 KB"
+    },
+    {
+      "name": "لقطة mobile-390.png (390x844)",
+      "ok": true,
+      "detail": "337 KB"
+    },
+    {
+      "name": "لقطة الصفحة كاملة",
+      "ok": true,
+      "detail": "5905 KB"
+    },
+    {
+      "name": "توليد ملف PDF للطباعة",
+      "ok": true,
+      "detail": "2966 KB"
+    },
+    {
+      "name": "لقطة النسخة الإنجليزية",
+      "ok": true,
+      "detail": "1219 KB"
+    },
+    {
+      "name": "لا تمرير أفقي @1440x900",
+      "ok": true,
+      "detail": "فرق=0px ['FIGURE.obj', 'DIV.obj__screen', 'SPAN.obj__bar', 'SPAN.obj__code', 'B.c1', 'B.c2']"
+    },
+    {
+      "name": "لا تمرير أفقي @1280x800",
+      "ok": true,
+      "detail": "فرق=0px ['DIV.header__tools', 'A.btn', 'FIGURE.obj', 'DIV.obj__screen', 'SPAN.obj__bar', 'SPAN.obj__code']"
+    },
+    {
+      "name": "لا تمرير أفقي @820x1180",
+      "ok": true,
+      "detail": "فرق=0px ['UL.nav__list', 'LI.', 'A.nav__link', 'FIGURE.obj', 'DIV.obj__screen', 'SPAN.obj__bar']"
+    },
+    {
+      "name": "قائمة الجوال تفتح صح @820px",
+      "ok": true,
+      "detail": "{\"open\": true, \"visible\": true, \"expanded\": \"true\"}"
+    },
+    {
+      "name": "لا تمرير أفقي @390x844",
+      "ok": true,
+      "detail": "فرق=0px ['UL.nav__list', 'LI.', 'A.nav__link', 'SPAN.scene__glow', 'FIGURE.obj', 'DIV.obj__screen']"
+    },
+    {
+      "name": "قائمة الجوال تفتح صح @390px",
+      "ok": true,
+      "detail": "{\"open\": true, \"visible\": true, \"expanded\": \"true\"}"
+    }
+  ],
+  "errors": [],
+  "screens": [
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\desktop-hero.png",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\laptop-1280.png",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\tablet-820.png",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\mobile-390.png",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\desktop-full.png",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\ha-cv.pdf",
+    "C:\\Users\\HP\\Desktop\\مجلد جديد\\2السيرة الرقمية22\\HA-Digital-Portfolio\\tools\\shots\\desktop-english.png"
+  ]
+}
