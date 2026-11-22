@@ -20,8 +20,10 @@ MYCV1/
     │   ├── about-texture.jpg
     │   ├── about-texture.webp
     │   ├── hero-tech.jpg
+    │   ├── hero-tech.webp
     │   ├── pattern-grid.png
-    │   └── vision-future.jpg
+    │   ├── vision-future.jpg
+    │   └── vision-future.webp
     └── projects/
         ├── project-ai-research.jpg
         ├── project-ai-research.webp
@@ -53,5 +55,6 @@ http://localhost:8000
 
 - All asset paths are relative for GitHub Pages compatibility.
 - Images are stored under `images/`.
+- Site images now use `.webp` where available.
 - The site supports Arabic (RTL) and English (LTR), light/dark themes, and responsive layouts.
 ```
